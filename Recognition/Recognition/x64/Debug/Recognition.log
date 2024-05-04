@@ -1,0 +1,2 @@
+﻿  recognition.cpp
+C:\Users\ulasc\source\repos\Recognition\Recognition\recognition.cpp(1,10): fatal  error C1083: içerme dosyası açılamıyor: 'opencv2/opencv.hpp': No such file or directory
